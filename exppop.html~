@@ -9,6 +9,7 @@
 </head>
 <body>
 	<script type="text/javascript" src="./js/popexp.js"></script>
+	<h2>welcome to coextrix</h2>
 	<style>
 	 .coex{
         margin-left:40%;
